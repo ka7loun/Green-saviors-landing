@@ -6,7 +6,6 @@ import TeamMembers from "@/components/team/TeamMembers";
 import TeamSection from "@/components/team/TeamSection";
 import { ContactForm } from "@/components/contact/ContactForm";
 import Footer from "@/components/footer/footer";
-import Roadmapmain from "@/components/roadmap/Roadmap";
 import ScrollToTop from "@/components/ScrollToTop";
 import StatsSection from "@/components/StatsSection";
 
@@ -41,7 +40,6 @@ export default function Home() {
       <div className="background">
         <AboutAgrivolt />
         <Principles />
-        <Roadmapmain />
       </div>
       <TeamSection />
       <StatsSection />
