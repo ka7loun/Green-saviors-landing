@@ -1,0 +1,13 @@
+.containercontent{
+    width: 100%;
+    align-items: center;
+    /* align-content: center; */
+    justify-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.containercontent section{
+    width: 80%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

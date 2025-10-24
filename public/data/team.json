@@ -1,0 +1,105 @@
+[
+  {
+    "active": true,
+    "name": "Nour Jeday",
+    "bio": "",
+    "title": "Founder & CEO",
+    "slug": "nour-jeday",
+    "twitterUsername": "",
+    "company": {
+      "name": ""
+    },
+    "image": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726062042/tsyp_pic_iyfdok.jpg"
+    },
+    "imageSmall": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726062042/tsyp_pic_iyfdok.jpg"
+    }
+  },
+  {
+    "active": true,
+    "name": "Aziz Slama",
+    "bio": "",
+    "title": "Operations Manager",
+    "slug": "aziz-slama",
+    "twitterUsername": "",
+    "company": {
+      "name": ""
+    },
+    "image": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726061869/Aziz_Slama_-_Operations_Manager_fudynv.jpg"
+    },
+    "imageSmall": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726061869/Aziz_Slama_-_Operations_Manager_fudynv.jpg"
+    }
+  },
+  {
+    "active": true,
+    "name": "Ahmed Kahloun",
+    "bio": "",
+    "title": "Marketing & Sales Lead",
+    "slug": "mariem-dorgham",
+    "twitterUsername": "",
+    "company": {
+      "name": ""
+    },
+    "image": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726061727/ahmed_kahloun_-_Marketing_Sales_Lead_fxcug4.jpg"
+    },
+    "imageSmall": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726061727/ahmed_kahloun_-_Marketing_Sales_Lead_fxcug4.jpg"
+    }
+  },
+
+  {
+    "active": true,
+    "name": "Bedie Dhawedi",
+    "bio": "",
+    "title": "Finance & Administration Manager",
+    "slug": "bedie-dhawedi",
+    "twitterUsername": "",
+    "company": {
+      "name": ""
+    },
+    "image": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726856406/Bedie_dhawedi_s8umfc.jpg"
+    },
+    "imageSmall": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726856406/Bedie_dhawedi_s8umfc.jpg"
+    }
+  },
+  {
+    "active": true,
+    "name": "Ahmed Jguirim",
+    "bio": "",
+    "title": "Technical Lead",
+    "slug": "ahmed-jguirim",
+    "twitterUsername": "",
+    "company": {
+      "name": ""
+    },
+    "image": {
+      "url": "https://i.imgur.com/QBj8pOh.jpg"
+    },
+    "imageSmall": {
+      "url": "https://i.imgur.com/QBj8pOh.jpg"
+    }
+  },
+  {
+    "active": true,
+    "name": "Nesrine Ncibi",
+    "bio": "",
+    "title": "Administration manager",
+    "slug": "nesrine-ncibi",
+    "twitterUsername": "",
+    "company": {
+      "name": ""
+    },
+    "image": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726778929/Nesrine_Ncibi_ownems.jpg"
+    },
+    "imageSmall": {
+      "url": "https://res.cloudinary.com/drnj1pror/image/upload/v1726778929/Nesrine_Ncibi_ownems.jpg"
+    }
+  }
+]

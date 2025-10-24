@@ -1,0 +1,77 @@
+/* Team Section Styles */
+.team-card {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.team-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+.team-image {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.team-image::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
+  pointer-events: none;
+}
+
+.team-initials {
+  background: linear-gradient(135deg, #34d399 0%, #10b981 100%);
+  box-shadow: 0 10px 25px rgba(16, 185, 129, 0.3);
+}
+
+.social-link {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.social-link:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.expertise-tag {
+  transition: all 0.3s ease;
+}
+
+.expertise-tag:hover {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+  transform: scale(1.05);
+}
+
+/* Animation for team cards */
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.team-card-animate {
+  animation: slideInUp 0.6s ease-out forwards;
+}
+
+/* Professional hover effects */
+.team-card:hover .team-initials {
+  transform: scale(1.05);
+  box-shadow: 0 15px 35px rgba(16, 185, 129, 0.4);
+}
+
+.team-card:hover .expertise-tag {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+}
